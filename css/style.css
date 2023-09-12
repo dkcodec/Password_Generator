@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+h1{
+    padding-bottom: 8%;
+}
+
 body{
     background-color: #8d0cf7;
     font-family: 'ADLaM Display', cursive;
@@ -21,6 +25,7 @@ body{
     background-color: white;
     padding-top: 30px;
     padding: 30px;
+    border-radius: 35px;
 }
 
 .main{
